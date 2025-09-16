@@ -12,7 +12,6 @@ public class New_Sort_Integer_Sequential {
 		sort(list, left, s - 1);
 		
 		sort(list, s + 1, right);
-	
 	}
 
 	static Integer part(ArrayList<Integer> list, Integer left, Integer right) {
